@@ -25,7 +25,7 @@ Boilerplate Code is more in other languages.
 -Python 3.0 versions
 
 # python readability
--this differentiate programmers or data scientists
+-this differentiate programmers and data scientists
 
 # comments
 - block level comments
