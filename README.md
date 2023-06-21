@@ -24,3 +24,16 @@ Boilerplate Code is more in other languages.
 -Python 2.0 versions
 -Python 3.0 versions
 
+# python readability
+-this differentiate programmers or data scientists
+
+# comments
+- block level comments
+- inline comments
+- document string/docstring
+
+# Data Types
+-variables
+
+# Operators
+-symbol to perform mathematical or logical manipulations..
