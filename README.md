@@ -31,9 +31,21 @@ Boilerplate Code is more in other languages.
 - block level comments
 - inline comments
 - document string/docstring
-
+  
 # Data Types
 -variables
 
 # Operators
 -symbol to perform mathematical or logical manipulations..
+
+# Flow Control
+- if , else if ,else
+- loop
+
+# string
+- immutable
+- enclosed in single or double quotation marks
+- concatenated with the +sign
+- string are repeated with *sign
+
+
