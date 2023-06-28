@@ -48,4 +48,13 @@ Boilerplate Code is more in other languages.
 - concatenated with the +sign
 - string are repeated with *sign
 
-
+# Data types of Python 
+# List
+- list is mutable i.e can be modified
+- list is an ordered collection
+- list is a sequence i.e collection of data one after the other
+- we can use indexing in list i.e an specific object can be located
+- list is dynamic i.e grow and shrink in runtime
+- list can hold different types of elements
+- list can be nested to arbitary depth
+  
