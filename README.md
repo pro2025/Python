@@ -66,3 +66,12 @@ Boilerplate Code is more in other languages.
 - It can hold different type of elements
 - Tuple can be nested to any arbitary depth
 
+# Set
+- Set is mutable
+- Set is unordered collection and dosn't perserve insertion order
+- Set isn't a sequence
+- Set is dynamic
+- It can hold diff type of immutable objects 
+- In Set values can't be duplicate
+
+  
