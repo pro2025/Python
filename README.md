@@ -74,7 +74,7 @@ Boilerplate Code is more in other languages.
 - It can hold diff type of immutable objects 
 - In Set values can't be duplicate
 
-  # dictionary
+# Dictionary
 - Dict is mutable
 - Dict is unordered collection but it perserve insertion order
 - Dict isn't a sequence
