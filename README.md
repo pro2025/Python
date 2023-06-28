@@ -57,4 +57,12 @@ Boilerplate Code is more in other languages.
 - list is dynamic i.e grow and shrink in runtime
 - list can hold different types of elements
 - list can be nested to arbitary depth
-  
+
+# Tuple
+- tuple is immutable
+- tuple is an ordered collection
+- tuple is a sequence
+- tuple is not dynamic
+- It can hold different type of elements
+- Tuple can be nested to any arbitary depth
+
