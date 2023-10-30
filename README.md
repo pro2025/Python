@@ -83,3 +83,7 @@ Boilerplate Code is more in other languages.
 - Dict can be nested to any arbitary depth
 - Dict can use only immutable types of obj as its key
 - In dict key can't be duplicate
+
+# Numpy
+-Python Library for doing various operations in simpiler and faster way
+
